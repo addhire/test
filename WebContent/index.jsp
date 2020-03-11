@@ -17,5 +17,10 @@
 		<li>MyBatis</li>
 		<li>Hibernate</li>
 	</ul>
+	<ul>
+		<li>DI</li>
+		<li>AOP</li>
+		<li>트랜잭션</li>
+	</ul>
 </body>
 </html>
