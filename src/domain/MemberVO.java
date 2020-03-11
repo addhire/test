@@ -18,4 +18,5 @@ public class MemberVO {
 	private String name;
 	private String addr;
 	private String mobile;
+	private String tel;
 }
